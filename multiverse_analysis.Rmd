@@ -462,7 +462,7 @@ sidebarLayout(
 
 ## What is a multiverse analysis?
 
-1.  A method to increase transparency and the robustness of results:
+1.  A method to increase the robustness of results:
 
 <blockquote>
 
@@ -478,7 +478,7 @@ sidebarLayout(
 
 </blockquote>
 
-3.  A method that does not indicate the correctness of the analysis:
+3.  A method that does not indicate the correctness of each analysis:
 
 <blockquote>
 
@@ -557,9 +557,9 @@ A method to show the results from a multiverse analysis is the **specification c
 
 In R there are specific packages, such as:
 
-* `specr`
-* `multiverse`
-* `boba`
+-   `specr`
+-   `multiverse`
+-   `boba`
 
 ## Applying a multiverse analysis
 
@@ -742,20 +742,24 @@ renderTable({
 
 This approach is not only limited to the neuroscientific/psychological field, indeed:
 
-- Software engineering _Diagnosing Software Faults Using Multiverse Analysis_ [@chatterjee2020diagnosing]
-- Machine Learning _Modeling the Machine Learning Multiverse_ [@bell2022modeling]
-- Education _Exploring the multiverse of analytical decisions in scaling educational large-scale assessment data: A specification curve analysis for PISA 2018 mathematics data_ [@robitzsch2022exploring] 
-- Sociology _How Robust Are Social Structural Predictors of Carbon Dioxide Emissions? A Multiverse Analysis_ [@theis2022robust]
-- Journalism _If You Have Choices, Why Not Choose (and Share) All of Them? A Multiverse Approach to Understanding News Engagement on Social Media_ [@pipal2022if]
+-   Software engineering *Diagnosing Software Faults Using Multiverse Analysis* [@chatterjee2020diagnosing]
 
-- Multiverse meta-analysis! _Exploring the efficacy of psychological treatments for depression: a multiverse meta-analysis protocol_ [@plessen2022exploring]
+-   Machine Learning *Modeling the Machine Learning Multiverse* [@bell2022modeling]
 
-##
+-   Education *Exploring the multiverse of analytical decisions in scaling educational large-scale assessment data: A specification curve analysis for PISA 2018 mathematics data* [@robitzsch2022exploring]
 
-Thank you for your attention!
+-   Sociology *How Robust Are Social Structural Predictors of Carbon Dioxide Emissions? A Multiverse Analysis* [@theis2022robust]
+
+-   Journalism *If You Have Choices, Why Not Choose (and Share) All of Them? A Multiverse Approach to Understanding News Engagement on Social Media* [@pipal2022if]
+
+-   Multiverse meta-analysis! *Exploring the efficacy of psychological treatments for depression: a multiverse meta-analysis protocol* [@plessen2022exploring]
+
+## Thank you for your attention!
 
 Questions?
 
+[`r fa(name = "github")` repository](https://github.com/michelescandola/multiverse_analysis) https://github.com/michelescandola/multiverse_analysis
+
+![](qrcode.png)
 
 ## References
-
