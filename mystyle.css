@@ -1,0 +1,61 @@
+#mytitle {
+   color: blue;
+}
+
+.box {
+    color: black; background: #E8E8E8;
+    position: fixed;
+    width: 25%;
+}
+
+body {
+ background-image: url("background.png");
+ background-color: #cccccc;
+ color: #FFFFFF;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+slides > slide {
+  overflow-y: auto !important;
+}
+
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;margin:0px auto;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:80%;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:80%;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky1{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky2{border-color:inherit;text-align:right;vertical-align:top}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+    color: #000000;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+.shiny-input-container {
+  color: #474747;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.top-three {
+     margin-top: 3cm;
+}
